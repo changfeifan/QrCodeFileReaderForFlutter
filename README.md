@@ -1,4 +1,4 @@
-# flutterQrCodeFileReader
+# QrCodeFileReaderForFlutter
 
 这是一个必须有的项目  |  this is a necessary program for flutter！
 
